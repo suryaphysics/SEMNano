@@ -1,4 +1,4 @@
-Download the SEMNano.exe file and run on a Windows PC. 
+Download the SEMNano.exe file and run on a Windows PC.
 
 # SEMNano Version 1.0
 
