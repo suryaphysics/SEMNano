@@ -11,4 +11,4 @@ If you use our software in your research to generate results, verification of re
 Reference:
 S. Kamal & R. Hailstone, SEM Nano: An Electron Wave Optical Simulation for the Scanning Electron Microscope, Microsc Microanal. doi:10.1017/S1431927622000198
 
-If you have any questions or suggestions about the program, please email : surya@mail.rit.edu
+If you have any questions or suggestions about the program, please email : surya.kamal@rit.edu
